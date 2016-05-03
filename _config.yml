@@ -6,14 +6,23 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Florian Ajir - Web developper
+title: Florian Ajir
 email: florianajir@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Passionated web developper
+  Web Developer - Software Designer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://florianajir.github.io" # the base hostname & protocol for your site
+
+# Social media profiles - feel free to add more here
 twitter_username: florianajir
 github_username:  florianajir
+#facebook_username: florianajir
+
+# Address information
+address_street: 256 rue de Thor
+address_city: Montpellier
+address_state: FR
+address_zip: 34000
 
 # Build settings
 markdown: kramdown
